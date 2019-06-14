@@ -1,0 +1,11 @@
+{
+  "bundles": {
+    "NetEmpire\\FormCreatorBundle\\FormCreatorBundle": [
+      "all"
+    ]
+  },
+  "copy-from-package": {
+    "config/routing/": "%CONFIG_DIR%/routing/"
+  },
+  "aliases": ["fbk","formcreator"]
+}
